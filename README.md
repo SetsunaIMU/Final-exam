@@ -19,7 +19,8 @@ In this programs obtains 4 class
     u need to download this project then open terminal and write 'exam.py'
 ---
 
-<img width="634" height="486" alt="image" src="https://github.com/user-attachments/assets/4a147772-3b66-4273-a303-58c9bab52925" />
+<img width="638" height="486" alt="image" src="https://github.com/user-attachments/assets/11996475-f75e-42a3-86ae-d293ba12bad3" />
+
 
 ### project structure
     This project did't have a harder structure it have only 5 structure fist is class person second is class customer third is class driver fourth is class deliveryorder and the last one is main method to run the oop and to show the output that we want if u want to change some name or some item u can change that it to main method 
