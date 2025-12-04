@@ -1,6 +1,6 @@
 ### Special Instructions for OOP
-# this project i build a easier oop for study by using inheritance method and this project is to see how the oop running
-
+# i build a easier oop project for study by using inheritance method and this project is to see how the oop running
+   
 ---
 ### Features
 In this programs obtains 4 class
@@ -19,10 +19,14 @@ In this programs obtains 4 class
     u need to download this project then open terminal and write 'exam.py'
 ---
 
-(image.png)
+<img width="634" height="486" alt="image" src="https://github.com/user-attachments/assets/4a147772-3b66-4273-a303-58c9bab52925" />
 
+### project structure
+    This project did't have a harder structure it have only 5 structure fist is class person second is class customer third is class driver fourth is class deliveryorder and the last one is main method to run the oop and to show the output that we want if u want to change some name or some item u can change that it to main method 
+    
 # This project have a lot of thing to improve
     firstly this project is not complete we need to change in the class Customer to add put a address and in the place_order i didn't return the item
 
     i found that it would be better if i use the getter and setter to lock the access to Person name class
+
     
